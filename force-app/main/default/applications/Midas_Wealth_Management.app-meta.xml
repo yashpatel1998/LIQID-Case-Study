@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#000000</headerColor>
+        <logo>X0x0</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>App for LIQID Case Study</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Midas Wealth Management</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>Product__c</tabs>
+    <tabs>Product_Subscription__c</tabs>
+    <tabs>Document__c</tabs>
+    <tabs>Customer__c</tabs>
+    <tabs>Customer_Family__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Midas_Wealth_Management_UtilityBar</utilityBar>
+</CustomApplication>
